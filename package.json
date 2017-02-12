@@ -5,7 +5,8 @@
   "keywords": [
     "uuid",
     "guid",
-    "rfc4122"
+    "rfc4122",
+    "lu sun"
   ],
   "license": "MIT",
   "bin": {
